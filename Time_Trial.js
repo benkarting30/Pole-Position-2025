@@ -26,9 +26,9 @@ function setup() {
     frameRate(60);
     defaultFont = textFont()
     mapSelected = localStorage.getItem(map)
-    if (mapSelected == undefined) {
-        mapSelected = debugInput
-    }
+    // if (mapSelected == undefined) {
+    //     mapSelected = debugInput
+    // }
     // Create tile types
 
 
