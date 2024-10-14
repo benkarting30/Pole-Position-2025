@@ -2,7 +2,7 @@ let tileSize = 10
 let map1, map2, map3, trackLimit, timingLine, testing, start, player, track, car1, car2, car3, car4, cars, mapSelected, slowArea, startSlowArea, slowed
 let resButton
 let maps = [map1, map2, map3]
-let debugInput = "map3"
+let debugInput = undefined
 let gear = 1
 let lapStarted = false
 let sessionStarted = false
