@@ -24,7 +24,7 @@ function settingsButton() {
     fill(255)
     textFont('Titillium Web')
     textAlign(CENTER, CENTER)
-    text("Setings", width / 2, 2 * height / 4)
+    text("Settings", width / 2, 2 * height / 4)
 }
 
 function timeTrialButton() {
@@ -51,7 +51,7 @@ function backButton() {
     fill(255)
     textFont('Titillium Web')
     textAlign(CENTER, CENTER)
-    text("Setings", width / 2, 3 * height / 4)
+    text("Back", width / 2, 3 * height / 4)
 }
 
 function draw() {
