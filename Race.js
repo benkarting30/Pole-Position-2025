@@ -372,10 +372,10 @@ let carImg1, carImg2, carImg3, carImg4, carImages
 let images = [carImages]
 
 function preload() {
-  carImg1 = loadImage('images/cars/cars_racer (1).png')
-  carImg2 = loadImage('images/cars/cars_racer (2).png')
-  carImg3 = loadImage('images/cars/cars_racer (3).png')
-  carImg4 = loadImage('images/cars/cars_racer (4).png')
+  carImg1 = loadImage('Images/cars_racer (1).png')
+  carImg2 = loadImage('Images/cars_racer (2).png')
+  carImg3 = loadImage('Images/cars_racer (3).png')
+  carImg4 = loadImage('Images/cars_racer (4).png')
   carImages = [carImg1, carImg2, carImg3, carImg4]
 }
 
